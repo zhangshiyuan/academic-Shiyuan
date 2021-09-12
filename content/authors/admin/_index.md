@@ -53,9 +53,9 @@ social:
 - icon: qq
   icon_pack: fab
   link: https://tva1.sinaimg.cn/large/008i3skNgy1gue58ur0crj60u01hdacv02.jpg
-- icon: linkedin
+- icon: youtube
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.youtube.com/channel/UCuCK28MeHHbiGptmaIZKsdg
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
