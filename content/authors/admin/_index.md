@@ -6,7 +6,7 @@ title: Shiyuan Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student for Electronic Science and Engineering
+role: Ph.D Student of Electronic Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,13 +65,15 @@ social:
    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhangshiyuan12346666@icloud.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shiyuan Zhang is a Ph.D student of Electronic Science and Engineering at the EMRS Lab in UESTC. His research interests include microwave engineering, EM wave, antenna and RF circuit design.
+
+He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
