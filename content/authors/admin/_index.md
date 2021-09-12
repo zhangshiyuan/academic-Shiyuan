@@ -19,17 +19,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Microwave Passive Circuits
-- Next-Generation Antenna Design
-- Feeding Networks for Multi-beam System
+- Feeding Networks for Multi-beam Antennas
 - Multi-Dimensional Topological Circuits
+- Integrated RF Front-End Modules
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Microwave Engineering
+  - course: Ph.D in Microwave Engineering
     institution: University of Electronic Science and Technology of China
     year: 2021
-  - course: Bsc in Microwave Engineering
+  - course: BEng in Microwave Engineering
     institution: University of Electronic Science and Technology of China
     year: 2017
   - course: Senior High
