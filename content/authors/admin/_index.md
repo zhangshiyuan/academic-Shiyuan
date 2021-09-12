@@ -6,7 +6,7 @@ title: Shiyuan Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student for Electronic Engineering
+role: Ph.D Student for Electronic Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microwave Passive Circuits
+- Next-Generation Antenna Design
+- Feeding Networks for Multi-beam System
+- Multi-Dimensional Topological Circuits
 
 # Education to show in About widget
 education:
