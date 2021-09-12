@@ -47,9 +47,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-3987-3947
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: weixin
+  icon_pack: fab
+  link: https://tva1.sinaimg.cn/large/008i3skNgy1gue55x9krgj60u012v76w02.jpg
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
