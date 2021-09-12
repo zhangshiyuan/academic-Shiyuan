@@ -45,7 +45,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: orcid
-  icon_pack: fas
+  icon_pack: fab
   link: https://orcid.org/0000-0002-3987-3947
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
