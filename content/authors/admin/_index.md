@@ -50,9 +50,9 @@ social:
 - icon: weixin
   icon_pack: fab
   link: https://tva1.sinaimg.cn/large/008i3skNgy1gue55x9krgj60u012v76w02.jpg
-- icon: github
+- icon: qq
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://tva1.sinaimg.cn/large/008i3skNgy1gue58ur0crj60u01hdacv02.jpg
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
